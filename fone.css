@@ -1,0 +1,22 @@
+.container-fluid{
+	height: 80px;
+	}
+
+.navbar-brand{
+	
+	}
+	
+	.navbar-toggler{
+		height: 70px;
+		width: 80px;
+		}
+		
+		.navbar-toggler-icon{
+			font-size: 32px;
+			}
+			
+			.nav-item{
+				font-size: 25px;
+				} 
+				
+				
